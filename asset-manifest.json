@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coin-Flipper/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Coin-Flipper/static/js/main.b8df5234.chunk.js",
+    "main.js.map": "/Coin-Flipper/static/js/main.b8df5234.chunk.js.map",
+    "runtime-main.js": "/Coin-Flipper/static/js/runtime-main.aee6f3df.js",
+    "runtime-main.js.map": "/Coin-Flipper/static/js/runtime-main.aee6f3df.js.map",
+    "static/js/2.f792796b.chunk.js": "/Coin-Flipper/static/js/2.f792796b.chunk.js",
+    "static/js/2.f792796b.chunk.js.map": "/Coin-Flipper/static/js/2.f792796b.chunk.js.map",
+    "index.html": "/Coin-Flipper/index.html",
+    "precache-manifest.beef994bbc62cf7ac0e7fc9264bbce24.js": "/Coin-Flipper/precache-manifest.beef994bbc62cf7ac0e7fc9264bbce24.js",
+    "service-worker.js": "/Coin-Flipper/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Coin-Flipper/static/css/main.b100e6da.chunk.css.map"
+  }
+}
